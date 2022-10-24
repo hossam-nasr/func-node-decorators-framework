@@ -1,2 +1,2 @@
-# func-node-decorators-framework
-Framework to enable Azure Functions on Node.js using TypeScript decorators
+# func-node-decorators-prototype
+Prototype for Azure Functions decorators programming model for Node.js
